@@ -2,7 +2,6 @@ from operator import index
 from numpy import average
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import yfinance as yf
 
 
